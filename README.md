@@ -2,7 +2,7 @@
 
 Abra o terminal no mac ou linux:
 
-    ./uspnet-login.sh username password
+    ./login-uspnet.sh username password
 
 # The MIT License
 

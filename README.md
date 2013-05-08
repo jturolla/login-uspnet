@@ -2,7 +2,7 @@
 
 Abra o terminal no mac ou linux.
 Clone o repositório (ou baixe-o normalmente).
-Navegue até a pasta em que o arquivo login-uspnet.sh foi salvo. 
+Navegue até a pasta em que o arquivo login-uspnet.sh foi salvo.
 
 Execute:
 
@@ -16,9 +16,8 @@ Você precisa ter o curl instalado.
 
 # Instalando o Curl no Mac
 
-1. Instale o brew
-
-    brew install curl
+1. Instale o brew: http://mxcl.github.io/homebrew/
+2. brew install curl
 
 # MIT License
 

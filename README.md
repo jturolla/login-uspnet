@@ -4,7 +4,7 @@ Abra o terminal no mac ou linux:
 
     ./login-uspnet.sh username password
 
-# The MIT License
+# MIT License
 
 Copyright (c) 2013 Julio Turolla
 
